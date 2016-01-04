@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>welcome to tha page</h1>
+<marquee><h1>welcome to the page</h1></marquee>
 </body>
 </html>
