@@ -1,5 +1,10 @@
+<!DOCTYPE html>
 <html>
 <body>
-<marquee>welcome to the page</marquee>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
 </body>
 </html>
